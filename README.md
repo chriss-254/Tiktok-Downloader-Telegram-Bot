@@ -71,15 +71,6 @@ Run the program
 python3 main.py
 ```
 Save the session using keyboard shortcut **ctrl + a + d**
-
+**Bugs**
+Added more bugs to fix later
 Done
-# Follow me
-* https://facebook.com/fawwazthoerif
-* https://instagram.com/fawatashi <br />
-  *You can contact me with social media in above*
-# Support me
-
-* (Indonesia) https://trakteer.id/fawwazthoerif
-* (Global/International) https://sociabuzz.com/fawwazthoerif/tribe
-* Bitcoin ```1HjMdpmiM8bUs2CtfjpXcjZjBBxNgBvhp4```
-* Tron / USDT (Tron20) ```TZANkbi8z22cEpkpWfJ1F6H84r9DA19Es1```
