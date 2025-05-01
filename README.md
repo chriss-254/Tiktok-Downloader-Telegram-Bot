@@ -71,6 +71,10 @@ Run the program
 python3 main.py
 ```
 Save the session using keyboard shortcut **ctrl + a + d**
+
 **Bugs**
+
 Added more bugs to fix later
+
+
 Done
