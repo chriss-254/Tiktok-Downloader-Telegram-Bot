@@ -13,7 +13,7 @@ This source code is not downloaded directly from TikTok but uses a third party.
    ```
 2. Clone or download this repository
    ```bash
-   git clone https://github.com/akasakaid/TiktokDownloader.git
+   git clone https://github.com/chriss-254/Tiktok-Downloader-Telegram-Bot
    ```
 3. Goto TiktokDownloader folder<br/>
    ```powershell
